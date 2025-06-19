@@ -10,8 +10,12 @@
 ## 🌟 About Me
 
 - 🎓 **CSE** | Lovely Professional University
+- Exploring backend, security, and cloud technologies. 
 - 🤖 Building creative solutions with **ML & Mobile Development**
 - 🌱 Always curious about emerging technologies
+- 🎧 Coding sessions powered by good music.
+- 🌍 Always learning, always improving, always curious.  
+- 🤝 Let’s connect and build something awesome together!
 
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -86,10 +90,15 @@
 </picture>
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+## ✍️ Random Dev Quote
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -100,3 +109,4 @@
   <img src="https://profile-counter.glitch.me/divyadeepmishra/count.svg?"  />
 </div>
 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

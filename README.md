@@ -28,7 +28,7 @@
 
 <p align="center">
 
- **Programming Languages:**
+ **💻 Programming Languages:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-**Frameworks, Platforms & Libraries:**
+**🧑‍💻Frameworks, Platforms & Libraries:**
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,7 +62,7 @@
 
 ---
 
-**Databases:**
+**🗄️Databases:**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,7 +72,7 @@
 
 ---
 
-**Machine Learning & Data Science:**
+**🤖Machine Learning & Data Science:**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFAE42?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -87,7 +87,7 @@
 
 ---
 
-**Tools & Services:**
+**🛠️Tools & Services:**
 
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,7 +104,7 @@
 
 ---
 
-**Cloud Platforms:**
+**☁️Cloud Platforms:**
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -112,7 +112,7 @@
 
 ---
 
-**Workspace:**
+**🖥️ Workspace:**
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

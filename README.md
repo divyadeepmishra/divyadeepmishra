@@ -59,7 +59,7 @@
 
 
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:divyadeepmishra@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
@@ -75,19 +75,27 @@
 
 ---
 
+### ⏳ Coding Activity:
 
+<picture>
+  <source  src="https://raw.githubusercontent.com/adityaadpandey/adityaadpandey/output/github-snake-dark.svg" />
+<!--   <source  src="https://raw.githubusercontent.com/adityaadpandey/adityaadpandey/output/github-snake.svg" /> -->
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyadeepmishra/divyadeepmishra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyadeepmishra/divyadeepmishra/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/divyadeepmishra/divyadeepmishra/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/divyadeepmishra/count.svg?"  />
 </div>
 
-###
 
-</div>

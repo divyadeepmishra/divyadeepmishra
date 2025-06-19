@@ -5,6 +5,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ## 🌟 About Me
 
 - 🎓 **CSE** | Lovely Professional University
@@ -12,7 +14,7 @@
 - 🌱 Always curious about emerging technologies
 
   
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 ## 🚀 Tech Stack
@@ -39,7 +41,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 ## 📈 Stats & Activity
@@ -53,13 +55,10 @@
   ![](https://nirzak-streak-stats.vercel.app/?user=divyadeepmishra&theme=dark&hide_border=true)<br/>
 </div>
 
----
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" /></a>
@@ -74,11 +73,10 @@
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="35" alt="hackerrank logo"  />
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="35" alt="stackoverflow logo"  /> -->
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-### ⏳ Coding Activity:
+## ⏳ Coding Activity:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
   <picture>
@@ -88,17 +86,17 @@
 </picture>
 </div>
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
----
 
-###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/divyadeepmishra/count.svg?"  />
 </div>
-
 

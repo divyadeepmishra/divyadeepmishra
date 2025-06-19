@@ -1,9 +1,13 @@
 <div align="center">
  <p align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&letterSpacing=bold&duration=4000&pause=1500&color=7B91FF&center=true&width=435&lines=HI%2C+There+%F0%9F%91%8B;I'm+Divyadeep+Mishra" alt="Typing SVG" />
  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&letterSpacing=bold&duration=4000&pause=1500&color=AC99FF&center=true&width=800&height=80&lines=Problem-solver%2C+Developer%2C+and+Tech+Enthusiast" alt="Typing SVG" /></p>
-
 </div>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 

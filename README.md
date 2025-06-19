@@ -65,10 +65,10 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" /></a>
-  <a href="https://linkedin.com/in/divyadeepmishra" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"/></a>
-  <a href="https://www.instagram.com/divydeepmishra/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"/></a>
-  <a href="https://wa.me/919755690475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"/></a>
+  <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="60" alt="gmail logo" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/divyadeepmishra" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="60" alt="linkedin logo"/></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/divydeepmishra/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="60" alt="instagram logo"/></a> &nbsp;&nbsp;
+  <a href="https://wa.me/919755690475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="60" alt="whatsapp logo"/></a> &nbsp;&nbsp;
 </div>
 
 <!--   <a href="https://t.me/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"/>

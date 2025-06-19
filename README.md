@@ -9,8 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **CSE** | Lovely Professional University
-- Exploring backend, security, and cloud technologies. 
+- 🎓**Computer Science and Engineering** 
 - 🤖 Building creative solutions with **ML & Mobile Development**
 - 🌱 Always curious about emerging technologies
 - 🎧 Coding sessions powered by good music.

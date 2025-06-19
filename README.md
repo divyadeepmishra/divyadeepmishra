@@ -65,7 +65,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="55" alt="gmail logo" /></a> &nbsp;&nbsp;

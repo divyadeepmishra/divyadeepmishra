@@ -13,8 +13,9 @@ jobs:
       - name: Generate Pac-Man Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
+          github_user_name: divyadeepmishra
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: "dark"
+          # theme: "dark"
       - name: Commit and push
         run: |
           git config --global user.name "GitHub Actions"

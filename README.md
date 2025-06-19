@@ -54,9 +54,9 @@
 ## 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyadeepmishra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyadeepmishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadeepmishra&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="220" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyadeepmishra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  /> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyadeepmishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadeepmishra&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
   
   ![](https://github-profile-trophy.vercel.app/?username=divyadeepmishra&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/><br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=divyadeepmishra&theme=dark&hide_border=true)<br/>
@@ -68,10 +68,10 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="55" alt="gmail logo" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/divyadeepmishra" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="55" alt="linkedin logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://www.instagram.com/divydeepmishra/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="55" alt="instagram logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://wa.me/919755690475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="55" alt="whatsapp logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/divyadeepmishra" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://www.instagram.com/divydeepmishra/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" alt="instagram logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://wa.me/919755690475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="50" alt="whatsapp logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
 </div>
 
 <!--   <a href="https://t.me/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"/>

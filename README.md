@@ -58,6 +58,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
 ---
 
 **🗄️Databases:**
@@ -70,7 +71,7 @@
 
 ---
 
-**🤖Machine Learning & Data Science:**
+**🤖Machine Learning:**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFAE42?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)

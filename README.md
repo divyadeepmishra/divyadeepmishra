@@ -22,8 +22,8 @@
  -->
  
  ```
- - 🎓**Computer Science and Engineering** 
- - 🤖 Building creative solutions with **ML & Mobile Development**
+ - 🎓Computer Science and Engineering
+ - 🤖 Building creative solutions with ML & Mobile Development
  - 🌱 Always curious about emerging technologies
  - 🎧 Coding sessions powered by good music.
  - 🌍 Always learning, always improving, always curious.  

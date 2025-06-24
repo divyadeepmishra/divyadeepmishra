@@ -23,10 +23,15 @@
  
  ```
  - 🎓Computer Science and Engineering
+
  - 🤖 Building creative solutions with ML & Mobile Development
+
  - 🌱 Always curious about emerging technologies
+
  - 🎧 Coding sessions powered by good music.
- - 🌍 Always learning, always improving, always curious.  
+
+ - 🌍 Always learning, always improving, always curious.
+
  - 🤝 Let’s connect and build something awesome together!
 ```
  </div>

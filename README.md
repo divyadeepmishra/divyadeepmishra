@@ -14,13 +14,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 🌟 About Me
-
-- 🎓**Computer Science and Engineering** 
-- 🤖 Building creative solutions with **ML & Mobile Development**
-- 🌱 Always curious about emerging technologies
-- 🎧 Coding sessions powered by good music.
-- 🌍 Always learning, always improving, always curious.  
-- 🤝 Let’s connect and build something awesome together!
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.pinimg.com/originals/48/97/66/489766e5f48617be90fad6832dd01570.gif" height="300" width="250">
+    </div>
+ -->
+ 
+ ```
+ - 🎓**Computer Science and Engineering** 
+ - 🤖 Building creative solutions with **ML & Mobile Development**
+ - 🌱 Always curious about emerging technologies
+ - 🎧 Coding sessions powered by good music.
+ - 🌍 Always learning, always improving, always curious.  
+ - 🤝 Let’s connect and build something awesome together!
+```
+ </div>
+</div>
 
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">

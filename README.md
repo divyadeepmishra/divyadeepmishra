@@ -5,8 +5,10 @@
  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&letterSpacing=bold&duration=4000&pause=1500&color=AC99FF&center=true&width=800&height=80&lines=Problem-solver%2C+Developer%2C+and+Tech+Enthusiast" alt="Typing SVG" /></p>
 </div>
 
-
-
+</p>
+<a href="https://github.com/anshkumar2311" target="_blank" rel="noopener noreferrer">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYza2xsci0zMmI0NTM4Ni1jYjBiLTRkMTgtODYxNC1kOWM1YzUzNDkyOTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXPGXM3Wy0nOUVmXi1d-CT031ZTvMjTdTsvYShmMXTY" alt="MasterHead" />
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">

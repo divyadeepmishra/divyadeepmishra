@@ -149,7 +149,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:divyadeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="45" alt="gmail logo" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="mailto:divydeepmishra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="45" alt="gmail logo" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
   <a href="https://linkedin.com/in/divyadeepmishra" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="linkedin logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
   <a href="https://www.instagram.com/divydeepmishra/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="45" alt="instagram logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;
   <a href="https://wa.me/919755690475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="45" alt="whatsapp logo"/></a> &nbsp;&nbsp; &nbsp;&nbsp;

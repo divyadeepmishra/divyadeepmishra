@@ -188,7 +188,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/divyadeepmishra/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/divyadeepmishra/count.svg?"/>
 </div>
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
